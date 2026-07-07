@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AveryMeeker
-- 👀 I’m interested in making the world a greener and more sustainable space.
-- 🌱 I’m currently learning github, how to run a company, and roasting profiles (for coffee)
-- 💞️ I’m looking to collaborate on data science projects, especially those that involve wildlife and natural resources.
-- 📫 How to reach me - email (meekeravery@gmail.com) or instagram (a.verymeeker)
+👋 Hi, I’m @AveryMeeker
+👀 I’m interested in making the world a greener and more sustainable space full of birds.
+🌱 I’m currently learning github, how to use it to share data projects and my PhD work.
+📫 How to reach me - email (avery.meeker@ubc.ca) or instagram (averymeeker)
 
 <!---
 AveryMeeker/AveryMeeker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
