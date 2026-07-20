@@ -1,7 +1,7 @@
 👋 Hi, I’m @AveryMeeker
+I'm an avian ecologist-entrepeneur-coffee roaster-and ultimate birder
 👀 I’m interested in making the world a greener and more sustainable space full of birds.
-🌱 I’m currently learning github, how to use it to share data projects and my PhD work.
-📫 How to reach me - email (avery.meeker@ubc.ca) or instagram (averymeeker)
+📫 How to reach me - email (avery.meeker@ubc.ca)
 
 <!---
 AveryMeeker/AveryMeeker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
